@@ -16,6 +16,21 @@
 
 - ⚡ Fun fact **The Python programming language is named after the British comedy group "Monty Python," not the snake!**
 
+- ##  Projects
+
+### 📘 [Blog App]( https://github.com/Nitesh257/BlogBackend)
+- A full-stack MERN application with JWT auth, Razorpay payments, and seller dashboard.
+- 🔗 [Live Demo](https://blog-frontend-ruby-chi.vercel.app/)
+
+### 💬 [Chat App](https://github.com/Nitesh257/chat-app)
+- Real-time chat using Socket.io and Express.
+- 🔗 [Live Demo](https://chat-app-8r9n.onrender.com/login)
+
+
+---
+
+You can view the full code in my deployment GitHub: [DeployAccount](https://github.com/Nitesh257)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nitesh0078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh0078" height="30" width="40" /></a>
